@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+    <title>TodaRoça</title>
+    <link rel='stylesheet' href='css/estilo.css'>
+    <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
+</head>
+
+<body class="conteudo exercicio">
+
+    <figure>
+        <img src="img/favicon_io/android-chrome-512x512.png" alt="">
+    </figure>  
+    <h1>Acha todas as Roças</h1>
+    
+    <div class="seletoresAjax">
+
+        <label>Estados:</label>
+        <select id="estados" onclick="atualizarCidades()" class="estados">
+        </select>
+
+        <label>Cidades:</label>
+        <select id="cidade" class="cidades">
+        </select>
+
+        <a onclick="googleMaps()" href=""><input type="button" value="Ir para GoogleMaps"></a>
+        
+    </div>    
+    
+    <script src="js/index.js"></script>
+</body>

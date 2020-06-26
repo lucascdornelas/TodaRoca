@@ -1,0 +1,20 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "estudando a tecnica ajax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "lucas c dornelas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.3",
+    "multer": "1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.17.3"
+  }
+}
