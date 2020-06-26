@@ -12,7 +12,7 @@ $ npm i
 <p>A ideia geral do projeto, é de gerar dinamicamente no frontend os elementos option e adicionar e remover dos elementos pais select</p> 
 
 <h3>com um pouquinho de css: </h3>
-![Peek 25-06-2020 22-52](https://user-images.githubusercontent.com/50468723/85813586-f8002780-b739-11ea-99d1-284118f80881.gif)
+<img src="https://user-images.githubusercontent.com/50468723/85813586-f8002780-b739-11ea-99d1-284118f80881.gif">
 
 
-~~pq acha todas roças~~
+~~pq acha todas as roças~~
